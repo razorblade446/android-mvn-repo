@@ -24,3 +24,13 @@
     <version>r12</version>
   </dependency>
 ```
+
+* Google Cloud Messaging for Android Library r3 *gcm*
+
+```xml
+  <dependency>
+    <groupId>com.google.android</groupId>
+    <artifactId>gcm</artifactId>
+    <version>r3</version>
+  </dependency>
+```
