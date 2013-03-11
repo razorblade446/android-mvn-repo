@@ -25,12 +25,12 @@
   </dependency>
 ```
 
-* Google Cloud Messaging for Android Library r3 *gcm*
+* Google Cloud Messaging for Android Library (Cliente) r3 *gcm-client*
 
 ```xml
   <dependency>
-    <groupId>com.google.android</groupId>
-    <artifactId>gcm</artifactId>
+    <groupId>com.google.android.gcm</groupId>
+    <artifactId>gcm-client</artifactId>
     <version>r3</version>
   </dependency>
 ```
