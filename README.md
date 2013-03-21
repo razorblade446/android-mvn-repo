@@ -34,3 +34,13 @@
     <version>r3</version>
   </dependency>
 ```
+
+* Crittercism APM Android *crittercism_v3_0_7_sdkonly.jar*
+
+```xml
+  <dependency>
+    <groupId>com.crittercism</groupId>
+    <artifactId>crittercism-android</artifactId>
+    <version>3.0.7-sdkonly</version>
+  </dependency>
+```
