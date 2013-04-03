@@ -35,6 +35,16 @@
   </dependency>
 ```
 
+* Google Maps API *maps.jar* (Versiones: *17_r1*)
+
+```xml
+  <dependency>
+    <groupId>com.google.android.maps</groupId>
+    <artifactId>maps</artifactId>
+    <version>17_r1</version>
+  </dependency>
+```
+
 * Crittercism APM Android *crittercism_v3_0_7_sdkonly.jar*
 
 ```xml
