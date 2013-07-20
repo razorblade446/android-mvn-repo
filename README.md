@@ -44,6 +44,16 @@
     <version>17_r1</version>
   </dependency>
 ```
+* Google Play Services *google-play-services.jar* (Versiones: *9*)
+
+```xml
+  <dependency>
+    <groupId>com.google.android.gms</groupId>
+    <artifactId>google-play-services</artifactId>
+    <version>9</version>
+    <type>apklib</type>
+  </dependency>
+```
 
 * Crittercism APM Android *crittercism_v3_0_7_sdkonly.jar*
 
